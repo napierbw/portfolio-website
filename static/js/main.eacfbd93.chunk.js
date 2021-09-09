@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-website"]=this["webpackJsonpportfolio-website"]||[]).push([[0],{10:function(t,e,n){},11:function(t,e,n){"use strict";n.r(e);var i=n(1),c=n.n(i),o=n(3),r=n.n(o),s=(n(8),n(0));n(10);var j=function(){return Object(s.jsxs)(s.Fragment,{children:[Object(s.jsx)("div",{children:"Sup Bitch"}),Object(s.jsx)("elvinBigPP",{})]})};r.a.render(Object(s.jsx)(c.a.StrictMode,{children:Object(s.jsx)(j,{})}),document.getElementById("root"))},8:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.eacfbd93.chunk.js.map
